@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - boolean01",
+            "request": "launch",
+            "mainClass": "boolean01",
+            "projectName": "java_2ee0c1c5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Binaryliteral<java_2ee0c1c5>",
+            "request": "launch",
+            "mainClass": "Binaryliteral",
+            "projectName": "java_2ee0c1c5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PostPreInc<java_2ee0c1c5>",
+            "request": "launch",
+            "mainClass": "PostPreInc",
+            "projectName": "java_2ee0c1c5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-add<java_2ee0c1c5>",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "java_2ee0c1c5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-first<java_2ee0c1c5>",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "java_2ee0c1c5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-shorthand<java_2ee0c1c5>",
+            "request": "launch",
+            "mainClass": "shorthand",
+            "projectName": "java_2ee0c1c5"
+        }
+    ]
+}

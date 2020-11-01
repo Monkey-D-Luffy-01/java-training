@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - demoloops",
+            "request": "launch",
+            "mainClass": "demoloops",
+            "projectName": "java_2ee0c1c5"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - boolean01",
             "request": "launch",
             "mainClass": "boolean01",
